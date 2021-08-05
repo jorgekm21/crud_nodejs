@@ -3,6 +3,7 @@
 - HTML
 - CSS
 - JS
+- NodeJS
 - MySQL (SQL)
 - MongoDb (NoSQL)
 - Routing
